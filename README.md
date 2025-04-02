@@ -1,30 +1,75 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Sw0rdXR8;Digital+Phantom;Shadow+Operative;Code+Alchemist" alt="Typing Animation" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=26&duration=2000&pause=500&color=FF00E0&center=true&vCenter=true&width=800&height=80&lines=Sw0rdXR8%20-%20[CLASSIFIED];Quantum%20Lockpicker%20%7C%20Zero-Day%20Cartographer%20%7C%20Polymorphic%20Operator" alt="Quantum Header">
+</div>
 
-![Protocol Status](https://img.shields.io/badge/STATUS-ACTIVE-20C20E?style=for-the-badge&logo=hyper&logoColor=white)
-![Identity](https://img.shields.io/badge/IDENTITY-CLASSIFIED-red?style=for-the-badge&logo=internet-explorer)
-![Mission](https://img.shields.io/badge/MISSION-ENCRYPTED-8A2BE2?style=for-the-badge&logo=ghost)
+<!-- Glitch Matrix Divider -->
+<img src="https://media1.tenor.com/m/4s8s7sQ6t1MAAAAC/glitch-matrix.gif" alt="Matrix Glitch" width="800"/>
 
----
-████████████████████░░ 84% [ERROR] ENCRYPTION PROTOCOL DETECTED
+<!-- Cryptographic Manifest -->
+<h2 align="center">🌀 Cryptographic Singularity</h2>
+<div align="center">
+  <pre style="font-family: 'Courier New'; color: #00FF00; background: #000; padding: 20px; border-radius: 5px;">
+    <code>
+      ▄██████████████▄▐█▄▄▄▄█▌  
+      ▄██████████████▄██▌▀█████  
+      ████████▌▀▐▄█ ███▀▀▀▀▀▀██▌
+      ██████▌▀█▄▀█████▌ ▄▄▄ ▄███
+      ███████▄▀█▄▀████▌ ████████
+      ████████▌ ▀█████▌ ▀▀▀ ▄███
+      ███████▀ ▄▀██████▄ ▄▄█████
+      █████▀ ▄▀███████████▄▄██▌ 
+      ▀▀▀▀  ▄▀███████████████▌  
+         ▄▀████████████████▌    
+        ██████████████████▀     
+  
+      ▌▌AES-256-GCM ∞ RSA-4096 ∞ ECC-P521▌▌
+      ▌▌SHA-3/Keccak ∞ Argon2id ∞ XChaCha20-Poly1305▌▌
+      ▌▌Lattice-based crypto ∞ Post-quantum sigils▌▌
+    </code>
+  </pre>
+</div>
 
+<!-- Quantum Tools -->
+<h2 align="center">⚡ Quantum Tunneling Tools</h2>
+<div align="center">
+  <pre style="font-family: 'Courier New'; color: #FF4500; background: #000; padding: 15px;">
+    <code>
+      ▸ Exploit Frameworks: 
+        Metasploit ∞ Pwntools ∞ Frida ∞ Binary Ninja
 
-## ⎇ Current Operation
-`>>` **Decrypting** shadow protocols in `[REDACTED]` system  
-`>>` **Ghost-coding** neural interface for **Project ECLIPSE**  
-`++` **Overwriting** security matrices in **Sector-0x8F**
+      ▸ Network Sorcery: 
+        Wireshark ∞ Nmap ∞ Scapy ∞ BetterCAP
 
----
+      ▸ Memory Manipulation: 
+        GDB-GEF ∞ Volatility ∞ Radare2 ∞ PIN
 
-## ⛓ Digital Footprint
-```bash
-<details> <summary>⚠️ WARNING: ENCRYPTED TRANSMISSION</summary>
-hex
-Copy
-53 77 30 72 64 58 52 38 20 2D 2D 2D 20 41 6C 6C
-20 73 79 73 74 65 6D 73 20 6E 6F 6D 69 6E 61 6C
-2E 20 49 64 65 6E 74 69 74 79 20 6D 61 73 6B 65
-64 2E 20 54 72 61 63 65 20 74 65 72 6D 69 6E 61
-74 65 64 2E
-</details>
+      ▸ Quantum Obfuscation: 
+        OLLVM ∞ Tigress ∞ C++ Templates ∞ Polymorphic Engines
+    </code>
+  </pre>
+</div>
+
+<!-- Covert Channels -->
+<h2 align="center">📡 Spectrum Channels</h2>
+<div align="center">
+  <pre style="font-family: 'Courier New'; color: #00FFFF; background: #000; padding: 10px;">
+    <code>
+      [Tor] sw0rdxr85b3n3hnxzyx2idk7ld7dibv3m7d4v.onion
+      [PGP] 4096R/0x573292C2 (2024-01-17) [EXPIRES: 2124-01-17]
+      [XMPP] sw0rdxr8@darknet.dismail.de
+      [Matrix] @sw0rdxr8:matrix.org [OMEMO Enabled]
+    </code>
+  </pre>
+</div>
+
+<!-- Quantum Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Quantum Footer">
+  <pre style="color: #FF0000; font-family: 'Courier New';">
+    <code>
+      ▌▌WARNING: QUANTUM OBSERVERS DETECTED▌▌
+      ▌▌THIS PROFILE COLLAPSES WHEN VIEWED▌▌
+      ▌▌ENTROPY THRESHOLD: ████████████98%▌▌
+    </code>
+  </pre>
+</div>
